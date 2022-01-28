@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  description: Welcome to the course website for **PSY407 Moral Psychology**, a course taught in the Department of Psychology at the University of Oregon.
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -40,19 +40,19 @@ params:
 
 menu:
   nav:
-    - name: Home
+    - name: Moral Psychology
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
+    - name: Course Syllabus
+      url: /syllabus
       weight: 2
-    - name: Tags
+    - name: Readings
       url: /tags/
       weight: 3
-    - name: About
+    - name: Lectures
       url: /about/
       weight: 4
-    - name: RSS
+    - name: Assignments
       url: /index.xml
       weight: 5
 

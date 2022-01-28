@@ -103,6 +103,24 @@ This will also be bold</description>
     </item>
     
     <item>
+      <title>Moral</title>
+      <link>https://example.com/home/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://example.com/home/</guid>
+      <description>.heatMap {}.heatMap th {background: #D3D3D3;word-wrap: break-word;text-align: center;}   COURSE DETAILS INSTRUCTOR     Department of Psychology University of Oregon Spring 2022 day, times Location of course Sarah Dimakis, M.S. sdimakis@uoregon.edu Office hours TBD Location Straub 461    Moral psychology is the field at the intersection of mind, behavior, and ethics. In this course, we will explore questions like:</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>https://example.com/syllabus/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://example.com/syllabus/</guid>
+      <description>.heatMap {text-align: center;}.heatMap th {background: #D3D3D3;word-wrap: break-word;text-align: center;}.noBold {text-align: center;}.noBold th {word-wrap: break-word;text-align: center;font-weight:normal;border: 0px;padding: 3px;}.noBold td {border: 0px;padding: 3px;}.noBorders {text-align: center;}.noBorders th {word-wrap: break-word;text-align: center;font-weight:normal;border: 0px;padding: 0px;}.noBorders td {border: 0px;padding: 0px;}</description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>https://example.com/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
