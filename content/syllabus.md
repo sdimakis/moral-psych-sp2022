@@ -3,6 +3,16 @@ date: "2017-06-26T18:27:58+01:00"
 title: Course Syllabus 
 ---
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+body {
+  font-family: 'Crimson Text', serif;
+}
+h1{font-family: 'Crimson Text', serif;}
+h2{font-family: 'Crimson Text', serif;}
+
+
+
 .my-smaller-font{
 font-size: 10px;
 }
@@ -64,7 +74,7 @@ Download a copy of the syllabus [here](/pdf/SPRING2022_Moral_Psychology_Syllabus
 
 <div class="heatMap">
 
-|CLASS STRUCTURE|
+|**CLASS STRUCTURE**|
 |:-:|
 </div>
 
@@ -72,7 +82,7 @@ Download a copy of the syllabus [here](/pdf/SPRING2022_Moral_Psychology_Syllabus
 
 <div class="heatMap">
 
-|LEARNING OBJECTIVES|
+|**LEARNING OBJECTIVES**|
 |:-:|
 </div>
 
@@ -81,7 +91,7 @@ In this course, you will be developing important skills that are valuable outsid
 
 <div class="heatMap">
 
-|ESTIMATED STUDENT WORKLOAD|
+|**ESTIMATED STUDENT WORKLOAD**|
 |:-:|
 </div>
 
@@ -89,7 +99,7 @@ When you complete this course, you will earn 3 credits toward your degree. A thr
 
 <div class="heatMap">
 
-|REQUIRED READINGS|
+|**REQUIRED READINGS**|
 |:-:|
 </div>
 
@@ -97,7 +107,7 @@ There is no assigned textbook for this course. All readings will be posted on Ca
 
 <div class="heatMap">
 
-|GRADING|
+|**GRADING**|
 |:-:|
 </div>
 
@@ -127,7 +137,7 @@ B+ 87-89.99% |C+ 77-79.99%| 		D+ 67-69.99% |	F 59.99% or below |
 
 <div class="heatMap">
 
-|MIDTERM EXAM|
+|**MIDTERM EXAM**|
 |:-:|
 </div>
 
@@ -135,7 +145,7 @@ There is one exam for this course, which is scheduled for the sixth week of the 
 
 <div class="heatMap">
 
-|TERM PAPER|
+|**TERM PAPER**|
 |:-:|
 </div>
 
@@ -147,7 +157,7 @@ I encourage you to choose a research question that you find compelling and belie
 
 <div class="heatMap">
 
-|REFLECTIONS|
+|**REFLECTIONS**|
 |:-:|
 </div>
 
@@ -155,7 +165,7 @@ To enrich class discussions and facilitate a deeper encoding of the readings, yo
 
 <div class="heatMap">
 
-|LEAD DISCUSSION|
+|**LEAD DISCUSSION**|
 |:-:|
 </div>
 
@@ -165,7 +175,7 @@ The discussion should engage your classmates and demonstrate your preparation an
 
 <div class="heatMap">
 
-|CLASS PARTICIPATION AND ATTENDANCE|
+|**CLASS PARTICIPATION AND ATTENDANCE**|
 |:-:|
 </div>
 
@@ -173,7 +183,7 @@ Both attendance and lively participation in class discussions are vital for a se
 
 <div class="heatMap">
 
-|LATE ASSIGNMENT POLICY|
+|**LATE ASSIGNMENT POLICY**|
 |:-:|
 </div>
 
@@ -181,7 +191,7 @@ The midterm, term paper proposal, and term paper will be marked 10% off every da
 
 <div class="heatMap">
 
-|ACCOMMODATIONS|
+|**ACCOMMODATIONS**|
 |:-:|
 </div>
  
@@ -189,7 +199,7 @@ The University of Oregon works to create inclusive learning environments. If the
 
 <div class="heatMap">
 
-|CHEATING POLICY|
+|**CHEATING POLICY**|
 |:-:|
 </div>
 
@@ -198,7 +208,7 @@ Any form of academic dishonesty, including getting outside help on take home ass
 
 <div class="heatMap">
 
-|E-MAIL POLICY|
+|**E-MAIL POLICY**|
 |:-:|
 </div>
 
@@ -207,7 +217,7 @@ When you e-mail me, please add PSY407 in the subject line (e.g., “PSY407 Quest
 
 <div class="heatMap">
 
-|CLASSROOM CLIMATE|
+|**CLASSROOM CLIMATE**|
 |:-:|
 </div>
 

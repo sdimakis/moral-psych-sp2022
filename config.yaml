@@ -47,14 +47,8 @@ menu:
       url: /syllabus
       weight: 2
     - name: Readings
-      url: /tags/
+      url: /2022-01-28-blogpost/
       weight: 3
-    - name: Lectures
-      url: /about/
-      weight: 4
-    - name: Assignments
-      url: /index.xml
-      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark

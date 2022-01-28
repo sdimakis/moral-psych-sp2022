@@ -5,6 +5,8 @@
     font-weight: bold;
     font-style: normal;
 }
+
+
 *,
 *::before,
 *::after {
@@ -27,7 +29,7 @@ template {
   display: none !important;
 }
 * + * {
-    margin-top: 2.25rem;
+    margin-top: 0.75rem;
 }
 br,
 dt,
@@ -49,7 +51,6 @@ p + p {
 }
 a {
     text-decoration: none;
-    border-bottom: 1px solid;
 }
 abbr {
     text-decoration: none;
@@ -176,13 +177,15 @@ code {
 /* Lists */
 main ul,
 main ol {
-    margin-left: 2.25rem;
+    margin-left: 3rem;
+    margin-top: 0.5rem;
 }
 main li + li {
-    margin-top: 0.5rem;
+    margin-top: 0rem;
 }
 main ul ul, main ol ol, main li ul, main li ol {
-    margin-top: 0.5rem;
+    margin-top: 0rem;
+
 }
 ol ol {
   list-style: lower-latin;
@@ -352,7 +355,7 @@ caption {
     margin-left: auto;
     margin-right: auto;
     max-width: 25rem;
-    font-size: 10px;
+    font-size: 11px;
 }
 .main-and-footer {
     margin-left: 15rem;
@@ -384,7 +387,7 @@ caption {
     font-size: 1rem;
 }
 .patterns h3 + ul {
-    margin-top: 0.75rem;
+    margin-top: 0rem;
 }
 .patterns li {
     line-height: 1.125;
@@ -405,6 +408,7 @@ caption {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
+
 .pattern a:focus {
     outline: none;
 }
@@ -431,13 +435,18 @@ caption {
 }
 
 /* Tables of contents */
+
 .toc {
     font-size: 0.85rem;
-    border: 1px solid;
-    padding: 1.5rem;
+    float: left;
+    margin-left: -10rem;
+    
+}
+.toc a:hover{
+  color: #e6f0ff;
 }
 .toc nav {
-  margin-top: 1rem;
+  margin-top: 0rem;
 }
 .toc ol {
     margin-left: 0.75rem;
@@ -449,8 +458,7 @@ caption {
   text-align: center;
 }
 #disqus-button {
-  width: 100%;
-  padding: 0.25em 0.75em;
+  display:none;
 }
 #disqus-comments {
   display: none; 
@@ -756,8 +764,8 @@ h1 svg {
   vertical-align: middle;
 }
 .link-icon {
-  width: 0.75em;
-  height: 0.75em;
+  width: 0em;
+  height: 0em;
 }
 .tags svg, .link-icon {
   vertical-align: middle;
@@ -945,10 +953,12 @@ h1 svg {
     }
     .pattern a {
         padding: 1rem;
+        
     }
     .pattern [aria-current] {
         clip-path: none;
         padding: 1rem;
+        
     }
     .pattern + .pattern {
         border-top: 1px solid;
@@ -956,6 +966,7 @@ h1 svg {
     }
     #menu-button {
         display: block;
+        
     }
     #patterns-list {
         display: none;
