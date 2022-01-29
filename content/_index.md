@@ -37,7 +37,6 @@ text-align: center;
 
 Moral psychology is the field at the intersection of mind, behavior, and ethics. In this course, we will explore questions like:
 
-{{< ticks >}}
 *	How do people judge which behaviors are morally right or morally wrong? Why do people and groups disagree?
 *	How do we form moral impressions of others?
 *	When do we absolve someone from blame, or think that they deserve praise for their actions?
@@ -45,7 +44,6 @@ Moral psychology is the field at the intersection of mind, behavior, and ethics.
 *	How do we lie, cheat, steal, and hurt others with a clear conscience? 
 *	Is a belief in God necessary to be a good person?
 
-{{< /ticks >}}
 
 
 This course is an introduction into moral psychology and therefore assignments do not presume prior knowledge, although prior experience reading psychology research is required. There are many ways to approach the study of moral psychology. This course draws most heavily from insights from *social psychology* research, and therefore most topics covered pertain to morality within social contexts, e.g., thinking about, reacting to, and judging the moral behavior and character of others. However, the course is interdisciplinary in nature, drawing from ideas and research from philosophy, behavioral economics, cognitive psychology, personality psychology, developmental psychology, neuroscience, biology, and other social science fields.

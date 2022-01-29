@@ -84,7 +84,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Week 1 
 
-**Lecture:** Introduction to moral psychology [<i class="fas fa-desktop"></i>](lectures/1a_introduction.html)<br>
+**Lecture:** Introduction to moral psychology [<i class="fas fa-desktop"></i>](/2022-01-28-blogpost/lectures/moral_psychology_w1.html)<br>
 **Due this week**: Syllabus Quiz<br>
 **Required readings**: <br>
 * Course syllabus [<i class="fas fa-globe"></i>](/syllabus/) [<i class="fas fa-download"></i>](/pdf/SPRING2022_Moral_Psychology_Syllabus.pdf)

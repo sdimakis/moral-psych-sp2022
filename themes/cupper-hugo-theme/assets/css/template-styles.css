@@ -414,6 +414,7 @@ caption {
 }
 .pattern span {
     margin-left: 0.125rem;
+    font-size: 11px;
 }
 
 /* After */
