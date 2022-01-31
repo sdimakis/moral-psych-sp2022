@@ -11,14 +11,6 @@ toc: true
 
 <style>
 
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
-
-body {
-  font-family: 'Crimson Text', serif;
-}
-h1{font-family: 'Crimson Text', serif;}
-h2{font-family: 'Crimson Text', serif;}
-
 h2 {
     font-size: 14px;
     text-decoration: underline;
@@ -84,7 +76,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Week 1 
 
-**Lecture:** Introduction to moral psychology [<i class="fas fa-desktop"></i>](/2022-01-28-blogpost/lectures/moral_psychology_w1.html)<br>
+**Lecture:** Introduction to moral psychology [<i class="fas fa-desktop"></i>](/moral-psych-sp2022/public/lectures/week_1.html#1)<br>
 **Due this week**: Syllabus Quiz<br>
 **Required readings**: <br>
 * Course syllabus [<i class="fas fa-globe"></i>](/syllabus/) [<i class="fas fa-download"></i>](/pdf/SPRING2022_Moral_Psychology_Syllabus.pdf)

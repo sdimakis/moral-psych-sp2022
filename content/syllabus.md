@@ -3,14 +3,6 @@ date: "2017-06-26T18:27:58+01:00"
 title: Course Syllabus 
 ---
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
-
-body {
-  font-family: 'Crimson Text', serif;
-}
-h1{font-family: 'Crimson Text', serif;}
-h2{font-family: 'Crimson Text', serif;}
-
 
 
 .my-smaller-font{
