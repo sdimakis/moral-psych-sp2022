@@ -10,13 +10,25 @@ toc: true
 <script src="https://kit.fontawesome.com/7a8f291e87.js" crossorigin="anonymous"></script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Crimson+Pro:wght@200&family=Patua+One&display=swap');
 
-h2 {
-    font-size: 14px;
-    text-decoration: underline;
-    font-family: "Times New Roman", Times, serif;
+h1,h2{
+font-family:'Patua One', cursive;
 }
 
+body{
+font-family: 'Crimson Pro', serif;
+font-size: 11px;
+}
+
+.pattern span {
+    margin-left: 0.125rem;
+    font-size: 12px;
+}
+
+.library-desc {
+    font-size: 11px;
+}
 .fa-globe {
     color: #61a0ff;
 }

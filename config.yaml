@@ -40,7 +40,7 @@ params:
 
 menu:
   nav:
-    - name: Moral Psychology
+    - name: Welcome!
       url: /
       weight: 1
     - name: Course Syllabus

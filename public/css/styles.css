@@ -1,10 +1,5 @@
 /* Fonts */
-@font-face {
-    font-family: 'Miriam Libre';
-    src: url('https://example.com/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://example.com/css/fonts/miriamlibre-bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Supermercado+One&display=swap');
 *,
 *::before,
 *::after {
@@ -116,7 +111,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: 'Supermercado One', cursive;;
     line-height: 1.125;
 }
 h1 {
@@ -131,7 +126,7 @@ h3 {
 h4,
 h5 {
     font-size: 1rem;
-    font-family: PT Sans, sans-serif;
+    font-family: 'Andada Pro', serif;
 }
 h5 {
     font-size: 0.85rem;
@@ -153,7 +148,7 @@ pre,
     border: 1px solid;
 }
 code {
-    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-family: 'Andada Pro', serif;
     font-size: 0.85em;
 }
 .cmd {
@@ -432,9 +427,10 @@ caption {
 
 /* Tables of contents */
 .toc {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     border: 1px solid;
     padding: 1.5rem;
+    
 }
 .toc nav {
   margin-top: 1rem;

@@ -21,6 +21,26 @@ toc: true
 
 <style>
 
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Crimson+Pro:wght@200&family=Patua+One&display=swap');
+
+h1{
+font-family:'Patua One', cursive;
+}
+
+body{
+font-family: 'Crimson Pro', serif;
+font-size: 11px;
+}
+
+.pattern span {
+    margin-left: 0.125rem;
+    font-size: 12px;
+}
+
+.library-desc {
+    font-size: 11px;
+}
+
 h2 {
     font-size: 11px;
 }

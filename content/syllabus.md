@@ -4,6 +4,26 @@ title: Course Syllabus
 ---
 <style>
 
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Crimson+Pro:wght@200&family=Patua+One&display=swap');
+
+h1{
+font-family:'Patua One', cursive;
+}
+
+body{
+font-family: 'Crimson Pro', serif;
+font-size: 11px;
+}
+
+.pattern span {
+    margin-left: 0.125rem;
+    font-size: 12px;
+}
+
+.library-desc {
+    font-size: 11px;
+}
+
 
 .my-smaller-font{
 font-size: 10px;
@@ -53,14 +73,20 @@ padding: 0px;
 
 
 </style>
-Download a copy of the syllabus [here](/pdf/SPRING2022_Moral_Psychology_Syllabus.pdf).
+You can download a print copy of the syllabus [<u><b>here</b></u>](/pdf/SPRING2022_Moral_Psychology_Syllabus.pdf).
 
 
 <div class="noBorders">
 
-|**COURSE DETAILS**||**INSTRUCTOR**|
+<div class="heatMap">
+
+|**PSY407 MORAL PSYCHOLOGY (CRN: 35757)**|
+|:-:|
+</div>
+
+|<u>**COURSE DETAILS**</u>||<u>**INSTRUCTOR**</u>|
 |:--------:|:-------:|:-------:|
-|<div class="my-smaller-font">Department of Psychology <br>University of Oregon <br> Spring 2022  day, times <br> Location of course </div>| ![](/my_images/trolley.jpg)| <div class="my-smaller-font">Sarah Dimakis, M.S. <br> sdimakis@uoregon.edu <br> Office hours TBD <br> Location Straub 461 </div>|
+|<div class="my-smaller-font"> Department of Psychology <br> University of Oregon <br> **Meetings**: Th 10-11:50am <br> **Location**: Chapman Hall 202 </div>| ![](/my_images/trolley.jpg)| <div class="my-smaller-font">Sarah Dimakis, M.S. <br> sdimakis@uoregon.edu <br> **Office hours**: W 3-5pm <br> **Location**: Straub 461 </div>|
 
 <div>
 
@@ -70,7 +96,7 @@ Download a copy of the syllabus [here](/pdf/SPRING2022_Moral_Psychology_Syllabus
 |:-:|
 </div>
 
-  This is a seminar course, which means that there is a strong focus on conveying your ideas through speaking and writing. We will devote the first part of each class to a lecture on the important theories and findings concerning the weekly topic (about 60-70 minutes), take a 10-minute break, and then spend the remaining time discussing the assigned readings for the week. Discussion is sometimes instructor-led and sometimes peer-led. Most of the time, discussion will include an activity such as a demonstration of the phenomenon or a debate.
+  This is a seminar course, which means that <u>there is a strong focus on conveying your ideas through speaking and writing.</u> We will devote the first part of each class to a lecture on the important theories and findings concerning the weekly topic (about 60-70 minutes), take a 10-minute break, and then spend the remaining time discussing the assigned readings for the week. Discussion is sometimes instructor-led and sometimes peer-led. Most of the time, discussion will include an activity such as a demonstration of the phenomenon or a debate.
 
 <div class="heatMap">
 
@@ -95,7 +121,7 @@ When you complete this course, you will earn 3 credits toward your degree. A thr
 |:-:|
 </div>
 
-There is no assigned textbook for this course. All readings will be posted on Canvas at the beginning of the course. Occasionally the readings will be supplemented with short videos. Readings should be completed before the class date indicated on the schedule. Please devote at least 3 hours every week to reading the assigned articles and an extra hour if you plan to write a reflection. You may want to read the shorter articles twice. It helps to block off time in your schedule dedicated to reading. Like any new skill, reading psychology articles is a difficult but rewarding experience that takes a lot of effort and practice to master! Here are some tips for reading scientific articles that will help you learn how to find and remember the most important information: https://tinyurl.com/yvrmzzzf 
+There is no assigned textbook for this course. <u>All readings will be posted on Canvas at the beginning of the course.</u> You can also access them through the course website. Occasionally the readings will be supplemented with short videos. Readings should be completed before the class date indicated on the schedule. <u>Please devote at least 3 hours every week to reading the assigned articles and an extra hour if you plan to write a reflection.</u> You may want to read the shorter articles twice. It helps to block off time in your schedule dedicated to reading. Like any new skill, reading psychology articles is a difficult but rewarding experience that takes a lot of effort and practice to master! Here are some tips for reading scientific articles that will help you learn how to find and remember the most important information: https://tinyurl.com/yvrmzzzf 
 
 <div class="heatMap">
 
@@ -113,11 +139,11 @@ Your course grade will be determined by the following assignments:
 ||Reflections (5)|100 points||
 ||Lead Discussion|40 points||
 ||Participation|40 points||
-||Proposal|20 points||
+||Paper Proposal|20 points||
 |||= 400 points||
 </div>
 
-The following grid provides the letter grade associated with each percent. Grade cutoffs are set so that there is no “rounding up,” although I reserve the right to round up students who are very close to a grade interval and who have exceeded expectations in class discussions. I may assign an “A+” if a student demonstrates exemplary understanding of the material.
+The following grid provides the letter grade associated with each percent. Grade cutoffs are set so that there is no “rounding up” to the nearest grade, although the instructor may round up students who are very close to a grade interval and who have exceeded expectations in class discussions. A student may be assigned an “A+” if they demonstrate exemplary understanding of the material across assessments.
 
 <div class="noBold">
 
@@ -141,11 +167,11 @@ There is one exam for this course, which is scheduled for the sixth week of the 
 |:-:|
 </div>
 
-The purpose of the term paper is to apply principles and theories you’ve learned in this course while diving deeper into a topic of profound interest for you. You will choose a research question, search for and read relevant research on the topic (including a couple of starter articles provided to you on Canvas), and write a paper describing the research findings and how they answer or fail to answer the research question. 
+The purpose of the term paper is to apply principles and theories you’ve learned in this course while diving deeper into a topic of profound interest for you. You will choose a research question, search for and read relevant research on the topic (including a couple of starter articles), and write a paper describing the research findings and how they answer or fail to answer the research question. 
 
-You may choose one of the following research questions (which you may interpret in a number of ways), or an alternate, equivalent question that you discuss with the instructor prior to turning in the proposal: (a) How do people develop moral prejudice, i.e., negative moral attitudes towards a group of people (e.g., based on race, sexuality, gender identity, weight, belief in God)? (b) Given insights from psychological research, what should policymakers do to reduce immoral or unethical behavior (e.g., academic cheating, violence)? (c) How might you attempt to change someone’s mind about a moral issue (e.g., people shouldn’t eat animals, police reform)? (d) How and why do psychopaths differ in their moral judgments and behavior?  (e) To what extent are a group (e.g., infants, young children, nonhuman animals) capable of morality? (f) When is lying considered permissible, or even preferred (i.e., prosocial lying), and when is it considered obligatory to tell the truth? (g) How do we detect if someone is telling the truth or lying?
+You may choose one of the following research questions (which you may interpret in a number of ways), or an alternate, equivalently rigorous question that you discuss with the instructor prior to turning in the proposal: (a) How do people develop moral prejudice, i.e., negative moral attitudes towards a group of people (e.g., based on race, sexuality, gender identity, weight, belief in God)? (b) Given insights from psychological research, what should policymakers do to reduce immoral or unethical behavior (e.g., academic cheating, violence)? (c) How might you attempt to change someone’s mind about a moral issue (e.g., people shouldn’t eat animals, police reform)? (d) How and why do psychopaths differ in their moral judgments and behavior?  (e) To what extent are a group (e.g., infants, young children, nonhuman animals) capable of morality? (f) When is lying considered permissible, or even preferred (i.e., prosocial lying), and when is it considered obligatory to tell the truth? (g) How do we detect if someone is telling the truth or lying?
 
-I encourage you to choose a research question that you find compelling and believe will encourage your growth as a scientist and person. Often, this won’t be a question that is ‘easy’ to answer, or most comfortable for you. You will turn in a topic proposal outlining your chosen research question and plan for the structure of your paper in Week 8 for feedback (about 1 page double spaced) and the final draft during finals week (about 4-6 paged double spaced). Please use APA format, including a title and reference page that do not count towards page length. Successful papers will provide a nuanced understanding of the topic, an abundance of empirical evidence to support claims and ideas, and thoughtful discussion of the strengths and limitations of psychological research in answering big, important questions. Submit on Canvas.
+I encourage you to choose a research question that you find compelling and believe will encourage your growth as a scientist and person. Often, this won’t be a question that is ‘easy’ to answer, or most comfortable for you. <u>You will turn in a topic proposal outlining your chosen research question and plan for the structure of your paper in Week 8 for feedback</u> (about 1 page double spaced) and <u>the final draft during finals week</u> (about 4-6 paged double spaced). Please use APA format, including a title and reference page that do not count towards page length. Successful papers will provide a nuanced understanding of the topic, an abundance of empirical evidence to support claims and ideas, and thoughtful discussion of the strengths and limitations of psychological research in answering big, important questions. Submit on Canvas.
 
 <div class="heatMap">
 
@@ -153,7 +179,7 @@ I encourage you to choose a research question that you find compelling and belie
 |:-:|
 </div>
 
-To enrich class discussions and facilitate a deeper encoding of the readings, you will write five reading reflections (about 1 page double spaced) over the course of the term. You must choose readings that are eligible for reflection, as indicated by a * symbol next to the reading in the syllabus but which five readings you choose is entirely up to you. If there are two papers eligible for reflection in a given week, you can pick one to reflect on or incorporate both into your reflection. Your reflection should include a short summary of the reading and then at least one of the following: (a) evaluate the extent to which you were convinced by the author(s)’s arguments or claims (b) connect the reading to observations or experiences in your life, or to theories or findings from this course or another course you’ve taken (c) consider how the findings could be applied to fix a social problem. Reflections are due on Canvas the night before class (11:59pm). Late assignments will not be accepted. 
+To enrich class discussions and facilitate a deeper encoding of the readings, <u>you will write five reading reflections</u> (about 1 page double spaced) over the course of the term. You must choose readings that are eligible for reflection, as indicated by a symbol next to the reading in the syllabus but which five readings you choose is entirely up to you. If there are two papers eligible for reflection in a given week, you can pick one to reflect on or incorporate both into your reflection. You can only write one reflection a week. Your reflection should include a short summary of the reading and then at least one of the following: (a) evaluate the extent to which you were convinced by the author(s)’s arguments or claims (b) connect the reading to observations or experiences in your life, or to theories or findings from this course or another course you’ve taken (c) consider how the findings could be applied to fix a social problem. <u>Reflections are due on Canvas Wednesday nights at 10pm </u>. They will be graded using the following scale: C = passing, B = good, A = exceeds expectations. You can submit more than 5 and the highest five grades will be counted. Late assignments will not be accepted. 
 
 <div class="heatMap">
 
@@ -161,7 +187,7 @@ To enrich class discussions and facilitate a deeper encoding of the readings, yo
 |:-:|
 </div>
 
-In a small group of 3-4 people, you will give a 10-minute presentation and then lead a 20-minute discussion based on a reading from your assigned week (readings that are eligible for presentation are indicated by a ** symbol next to the reading on the syllabus). The presentation should summarize the (1) research question (2) relevant background information (3) method (4) results, and (5) discussion of implications and limitations from the reading. For the discussion portion, you may want to devise an activity for the class (e.g., a demonstration of the phenomenon, a debate) and/or prepare a few questions to spark conversation. You must reach out to the instructor one week prior to leading discussion to make an office hours appointment.
+In a small group of 3-4 people, <u>you will give a 10-minute presentation and then lead a 20-minute discussion based on a reading from your assigned week</u> (readings that are eligible for presentation are indicated by a symbol next to the reading on the syllabus). The presentation should summarize the (1) research question and hypotheses (2) relevant background information (3) method (4) results, and (5) discussion of implications and limitations from the reading. If there are multiple studies, you can choose to focus on one. For the discussion portion, you may want to devise an activity for the class (e.g., a demonstration of the phenomenon, a debate) and/or prepare a few questions to spark conversation. <u>You must reach out to the instructor one week prior to leading discussion to make an office hours appointment that will work for your group </u>.
 
 The discussion should engage your classmates and demonstrate your preparation and expertise. If you fall ill or otherwise cannot attend your presentation for an unexpected reason, reach out to the instructor as soon as possible with documentation, and you will be reassigned to another group, or given an alternate assignment if reassignment is not possible. 
 
@@ -171,7 +197,7 @@ The discussion should engage your classmates and demonstrate your preparation an
 |:-:|
 </div>
 
-Both attendance and lively participation in class discussions are vital for a seminar class and are therefore given a grade in this course to reflect their importance. Reach out to the instructor as soon as possible if you have a documented reason for absence (e.g., medical or family emergency) to receive an “excused absence.” I will keep a log of your attendance and the quality (not quantity) of your contributions to class discussions. Small assignments posted to Canvas (e.g., syllabus quiz) also qualify under this grade category. Students who receive full points for participation will arrive to class on time, contact the professor well in advance of missing a class, be eager to share and respectful of others’ ideas, and pose insightful questions and comments that elevate class discussions.
+Both attendance and lively participation in class discussions are vital for a seminar class and are therefore given a grade in this course to reflect their importance. <u>Reach out to the instructor as soon as possible if you have a documented reason for absence</u> (e.g., medical or family emergency) to receive an “excused absence.” The instructor will keep a log of your attendance and the quality (not quantity) of your contributions to class discussions. Small assignments posted to Canvas (e.g., syllabus quiz) also qualify under this grade category. Students who receive full points for participation will <u>arrive to class on time</u>, <u>contact the professor well in advance of missing a class</u>, <u>be eager to share and respectful of others’ ideas</u>, and <u>pose insightful questions and comments that elevate class discussions.</u>
 
 <div class="heatMap">
 
@@ -187,7 +213,7 @@ The midterm, term paper proposal, and term paper will be marked 10% off every da
 |:-:|
 </div>
  
-The University of Oregon works to create inclusive learning environments. If there are aspects of the instruction or design of this course that result in disability-related barriers to your participation, please notify me as soon as possible. If you have a documented disability, please request that a counselor at the Accessible Education Center (uoaec@uoregon.edu, 541-346-1155) send a letter verifying the type of accommodations that are appropriate. For a list of resources provided by the Accessible Education Center, please see http://aec.uoregon.edu. Contact the instructor in the first week of class to talk about your accommodations.
+The University of Oregon works to create inclusive learning environments. If there are aspects of the instruction or design of this course that result in disability-related barriers to your participation, please notify me as soon as possible. If you have a documented disability, please request that a counselor at the Accessible Education Center (uoaec@uoregon.edu, 541-346-1155) send a letter verifying the type of accommodations that are appropriate. For a list of resources provided by the Accessible Education Center, please see http://aec.uoregon.edu. <u> Please contact the instructor in the first week of class to talk about your accommodations.</u>
 
 <div class="heatMap">
 
@@ -205,7 +231,7 @@ Any form of academic dishonesty, including getting outside help on take home ass
 </div>
 
 
-When you e-mail me, please add PSY407 in the subject line (e.g., “PSY407 Question about reflections”). I will get back to you within 24 hours on workdays, or 48 hours over the weekend. If I do not respond to your email within 48 hours, please resend it because I may have not received it. I recommend attending my office hours (or making an appointment with me) if you would like to brainstorm topic ideas for the term paper or review answered marked incorrect from the midterm exam. For papers, I prefer to help in the outline stage and cannot review full drafts prior to submission.
+When you e-mail me, please add PSY407 in the subject line (e.g., “PSY407 Question about reflections”). <u>I will get back to you within 24 hours on workdays, or 48 hours over the weekend.</u> If I do not respond to your email within 48 hours, please resend it because I may have not received it. I recommend attending my office hours (or making an appointment with me) if you would like to brainstorm topic ideas for the term paper or review answers marked incorrect from the midterm exam. For papers, I prefer to help in the outline stage and cannot review full drafts prior to submission.
 
 <div class="heatMap">
 
@@ -213,9 +239,9 @@ When you e-mail me, please add PSY407 in the subject line (e.g., “PSY407 Quest
 |:-:|
 </div>
 
-While studying moral psychology, we are bound to hear from others who do not agree with our moral values, which will cause us to feel uncomfortable. I do not expect to agree with you on everything, and I do not expect you to agree with your classmates on everything. We are a group with diverse backgrounds and experiences. We must therefore make it a priority that everyone in this class (students and instructor) have the opportunity to speak and challenge each other’s ideas. 
+While studying moral psychology, we are bound to hear from others who do not agree with our moral values, which will cause us to feel deeply uncomfortable. I do not expect to agree with you on everything, and I do not expect you to agree with your classmates on everything. We are a group with diverse backgrounds and experiences. We must therefore make it a priority that each person in this class has the opportunity to speak and challenge each other’s ideas. 
 
-Here are a few ground rules that I propose that we follow, and I am open to discussing more: (1) Criticize ideas and not people. Instead of attacking the speaker (e.g., “you are wrong and dumb for thinking that”), you should disagree with the claim or idea by providing contradictory research findings or personal experiences. (2) Avoid making assumptions about others. Without complete information about other people, we try to fill in the missing information but fall short. When we sit back and listen, we learn things we could not expect. (3) Allow others to make mistakes and learn from them. Allow yourself to make mistakes. We don’t always say what we mean, and there are things we don’t know. We are all learning and growing in this class. (4) Keep an open mind. Don’t assume your beliefs are fully formed and that you can’t learn from others. (5) Treat others with respect, even when you disagree. Always treat others how you would like to be treated.
+Here are a few ground rules that I propose that we follow, and I am happy to add more: (1) Treat others with respect, even when you disagree. Always treat others how you would like to be treated. (2) Criticize ideas and not people. Instead of attacking the speaker (e.g., “you are wrong and dumb for thinking that”), you should disagree with the claim or idea by providing contradictory research findings or personal experiences. (3) Avoid making assumptions about others. Without complete information about other people, we try to fill in the missing information but fall short. When we sit back and listen, we learn things we could not expect. (4) Allow others to make mistakes and learn from them. Allow yourself to make mistakes. We don’t always say what we mean, and there are things we don’t know yet. We are all learning and growing in this class. (5) Keep an open mind. Don’t assume your beliefs are fully formed and that you can’t learn from others. 
 
 If you do not feel comfortable participating in a class discussion or believe there is more that I could be doing to promote a more effective learning environment, I urge you to come talk to me. I will always listen to your concerns with respect and an open mind and will make adjustments when appropriate.
 
