@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Welcome to the course website for **PSY407 Moral Psychology**, a course taught in the Department of Psychology at the University of Oregon.
+  description: Welcome to the course website for **PSY407 Seminar in Moral Psychology**, a course taught in the Department of Psychology at the University of Oregon.
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -40,13 +40,13 @@ params:
 
 menu:
   nav:
-    - name: Welcome!
+    - name: Course description
       url: /
       weight: 1
     - name: Course Syllabus
       url: /syllabus
       weight: 2
-    - name: Readings
+    - name: Reading list
       url: /2022-01-28-blogpost/
       weight: 3
 

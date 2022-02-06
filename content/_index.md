@@ -1,6 +1,6 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: Welcome! 
+title: Course description 
 ---
 
 
@@ -44,10 +44,10 @@ text-align: center;
 <div class="heatMap">
 
 
-Moral psychology is the academic field at the intersection of mind, behavior, and ethics. Moral psychologists use psychological methods to study questions about human morality - how it evolved and develops across the lifespan, how people judge behaviors as  wrong and people as evil, and how people act (or fail to act) in accordance with those judgments. In this course, we will explore questions like:
+Moral psychology is the academic field at the intersection of mind, behavior, and ethics. Moral psychologists use scientific methods to study questions about human morality - how it evolved and develops across the lifespan, how people judge behaviors as  wrong and people as evil, and how people act (or fail to act) in accordance with those judgments. In this course, we will explore questions like:
 
-* How do you know that certain behaviors are "wrong" - like suffocating a crying baby on an airplane, breaking into your neighbor's apartment to steal their TV, or having sex with your pets or siblings? 
-* Why do some people have different moral-political beliefs than you (e.g., abortion, same-sex marriage, death penalty) and is it possible to convince them that they're wrong and you're right?
+* How do you know that certain behaviors are "wrong", like suffocating a crying baby on an airplane, breaking into your neighbor's apartment to steal their TV, or having sex with your pets or siblings? 
+* Why do some people have different moral-political beliefs than you (e.g., abortion, same-sex marriage, death penalty) and is it possible to convince them that you're right and they're wrong?
 *	When you first meet someone, how do you decide whether they are a good or bad person? What information could you learn about them that might indicate an underlying disposition to harm or take from others?
 * Why do people donate their money, time, blood, or organs to strangers who will not give them anything in return?
 *	How do we justify to ourselves that we are still a good person even as we lie, cheat, steal, and hurt the people around us? 
