@@ -1,9 +1,9 @@
 /* Fonts */
-@font-face {
-    font-family: 'Miriam Libre';
-    src: url('{{ "css/fonts/miriamlibre-bold.woff2" | absURL }}') format('woff2'), url('{{ "css/fonts/miriamlibre-bold.woff" | absURL }}') format('woff');
-    font-weight: bold;
-    font-style: normal;
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Crimson+Pro:wght@200&family=Patua+One&display=swap');
+
+body{
+font-family: 'Crimson Pro', serif;
+font-size: 11px;
 }
 
 
@@ -42,6 +42,7 @@ li + li,
 body,
 .main-and-footer {
     margin-top: 0;
+    padding:0;
 }
 p + p {
     margin-top: 0.75rem;
@@ -74,7 +75,7 @@ figure p img {
 [data-expands]:focus svg,
 .patterns a:focus .text,
 [for="themer"] :focus + [aria-hidden] {
-    outline: 4px solid #999;
+    outline: 4px;
 }
 a {
   outline-offset: 2px;
@@ -117,11 +118,13 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family:'Patua One', cursive;
     line-height: 1.125;
 }
 h1 {
     font-size: 2rem;
+    border-bottom: 2px dashed #D3D3D3;
+
 }
 h2 {
     font-size: 1.66rem;
@@ -355,13 +358,13 @@ caption {
     margin-left: auto;
     margin-right: auto;
     max-width: 25rem;
-    font-size: 11px;
+    font-size: 10px;
 }
 .main-and-footer {
     margin-left: 15rem;
 }
 .main-and-footer > div {
-    max-width: 40rem;
+    max-width: 45rem;
     margin: 0 auto;
     padding-top: 2rem;
     padding-left: 1rem;
@@ -440,11 +443,14 @@ caption {
 .toc {
     font-size: 0.85rem;
     float: left;
-    margin-left: -10rem;
+    margin-left: -8rem;
+    margin-top: -2rem;
+    position: fixed;
+  
     
 }
 .toc a:hover{
-  color: #e6f0ff;
+  background-color: #e6f0ff;
 }
 .toc nav {
   margin-top: 0rem;
@@ -503,7 +509,7 @@ caption {
 /* Date */
 .date {
     margin-top: 0;
-    font-size: 0.85rem;
+    font-size: 0;
 }
 
 /* Notes and warnings */
@@ -908,7 +914,7 @@ h1 svg {
 }
 
 /* Media queries */
-@media screen and (max-width: 45em) {
+@media screen and (max-width: 40em) {
     body a {
       hyphens: auto;
     }
@@ -1054,3 +1060,6 @@ h1 svg {
   background: rgba(0,0,0,.8);
   color: #fefefe;
 }
+
+
+

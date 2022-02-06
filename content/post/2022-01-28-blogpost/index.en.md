@@ -10,24 +10,10 @@ toc: true
 <script src="https://kit.fontawesome.com/7a8f291e87.js" crossorigin="anonymous"></script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Crimson+Pro:wght@200&family=Patua+One&display=swap');
 
-h1,h2{
-font-family:'Patua One', cursive;
+* + * {
+    margin-top: 0rem;
 }
-
-body{
-font-family: 'Crimson Pro', serif;
-font-size: 11px;
-}
-
-.pattern span {
-    margin-left: 0.125rem;
-    font-size: 12px;
-}
-
-.library-desc {
-    font-size: 11px;
 }
 .fa-globe {
     color: #61a0ff;
@@ -95,6 +81,11 @@ font-size: 11px;
     color: #a2f1be;
 }
 
+.float-right{
+float: right;
+border: 2px dashed #D3D3D3;;
+padding: 4px;
+}
 </style>
 
 <style>
@@ -103,10 +94,14 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 <br>
 
-<i class="fas fa-pen-alt"></i> Eligible for reflection <br>
-<i class="fas fa-comments"></i> Eligible for presentation
+<p style="float: right">
+
+</p>
 
 ## Week 1
+
+<p class="float-right"><i class="fas fa-pen-alt"></i> Eligible for reflection <br> <i class="fas fa-comments"></i> Eligible for presentation</p>
+
 
 **Lecture:** Introduction to moral psychology (3/31) [<i class="fas fa-desktop"></i>](/moral-psych-sp2022/public/lectures/week_1.html#1)<br>
 **Due this week**: Syllabus Quiz due Sunday 4/3 at 11:59pm <br>
@@ -132,7 +127,7 @@ moral judgment. *Cognition, 111*(3), 364-371. [<i class="fas fa-download"></i>](
 **Lecture:** Moral Character Evaluation (4/14) [<i class="fas fa-desktop"></i>](lectures/1a_introduction.html)<br>
 **Required readings**: <br>
 * Pizarro, D. A. (2019, February 12). Friend or Foe?: How Do We Know Who To Trust [Video]. 
-*YouTube.* [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=LOB4eCzoOJ8) <i class="fas fa-pen-alt"></i>
+*YouTube.* [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=LOB4eCzoOJ8) 
 * Berman, J. Z., & Silver, I. (2022). Prosocial behavior and reputation: When does doing good lead to looking good? *Current opinion in psychology, 43*, 102-107. [<i class="fas fa-download"></i>](/pdf/Berman_2022.pdf) <i class="fas fa-pen-alt"></i>
 * Uhlmann, E. L., Zhu, L. L., & Tannenbaum, D. (2013). When it takes a bad person to do the 
 right thing. *Cognition, 126*(2), 326-334. [<i class="fas fa-download"></i>](/pdf/Uhlmann_2013.pdf)  <i class="fas fa-comments"></i>
@@ -154,7 +149,7 @@ responsibility. *Journal of experimental social psychology, 39*(6), 653-660.[<i 
 **Lecture:** Altruism and egoism (4/28) [<i class="fas fa-desktop"></i>](lectures/1a_introduction.html)<br>
 **Required readings**: <br>
 * Marsh, A. A. (2016, October 7). Why some people are more altruistic than others [Video]. 
-*YouTube*. [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=uq-6T6TAu74) <i class="fas fa-pen-alt"></i>
+*YouTube*. [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=uq-6T6TAu74)
 * Effron, D. A., & Conway, P. (2015). When virtue leads to villainy: Advances in research on 
 moral self-licensing. *Current Opinion in Psychology, 6*, 32-35. [<i class="fas fa-download"></i>](/pdf/Effron_2015.pdf) <i class="fas fa-pen-alt"></i>
 * Vonasch, A. J., Reynolds, T., Winegard, B. M., & Baumeister, R. F. (2018).  Death before 
