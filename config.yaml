@@ -44,7 +44,7 @@ menu:
       url: /
       weight: 1
     - name: Course Syllabus
-      url: /syllabus
+      url: /2022-02-06-course-syllabus/
       weight: 2
     - name: Reading list
       url: /2022-01-28-blogpost/
