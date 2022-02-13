@@ -422,9 +422,9 @@ caption {
 
 /* After */
 .pattern [aria-current] {
-  background-color: #111;
+  background-color: #e6f0ff;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
-  color: #fefefe;
+  color: black;
 }
 
 /* Menu button */
@@ -446,14 +446,36 @@ caption {
     margin-left: -8rem;
     margin-top: -2rem;
     position: fixed;
+    text-align:right;
 }
 
-.toc a:hover{
-  font-weight: bold;
+
+.toc ul{
+  list-style-type: none;
+  margin-left: 0;
 }
+
+.toc li{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+}
+
+strong#toc-heading{
+  padding-left:5px;
+  padding-right:5px;
+
+}
+
+.toc li:hover{
+  background-color: #e6f0ff;;
+}
+
+
+
 .toc nav {
-  margin-top: 0rem;
-  margin-left: -2rem;
+  margin-top: -.5rem;
+
 }
 .toc ol {
     margin-left: 0.75rem;
@@ -1060,6 +1082,5 @@ h1 svg {
   background: rgba(0,0,0,.8);
   color: #fefefe;
 }
-
 
 
