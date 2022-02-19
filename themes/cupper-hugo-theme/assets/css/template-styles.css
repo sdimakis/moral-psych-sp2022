@@ -1,9 +1,10 @@
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Crimson+Pro:wght@200&family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
 
 body{
-font-family: 'Crimson Pro', serif;
-font-size: 11px;
+font-family: 'Rubik', sans-serif;
 }
 
 
@@ -417,7 +418,7 @@ caption {
 }
 .pattern span {
     margin-left: 0.125rem;
-    font-size: 11px;
+    font-size: 10px;
 }
 
 /* After */
@@ -443,7 +444,7 @@ caption {
 .toc {
     font-size: 0.85rem;
     float: left;
-    margin-left: -8rem;
+    margin-left: -9rem;
     margin-top: -2rem;
     position: fixed;
     text-align:right;

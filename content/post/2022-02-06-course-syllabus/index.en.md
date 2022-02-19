@@ -74,8 +74,8 @@ height: 0;
 width: 0;
 }
 </style>
-You can download a print copy of the syllabus [<u><b>here</b></u>](/pdf/SPRING2022_Moral_Psychology_Syllabus.pdf).
 
+You can download a print copy of the syllabus [<u><b>here</b></u>](/pdf/SPRING2022_Moral_Psychology_Syllabus.pdf).
 
 <div class="noBorders">
 
